@@ -1,2 +1,0 @@
-# Rompecabezas
-Puzzle
